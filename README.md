@@ -7,11 +7,9 @@ AI Excuse Generator is a Python-based application that generates context-aware e
 ## Features
 
 * AI-generated excuses using the FLAN-T5-Large language model
-* Support for multiple languages
 * Text-to-speech conversion
 * PDF supporting document generation
 * Fake chat conversation generation
-* Fake location map generation
 * Excuse history and favorites management
 * Interactive user interface built with Google Colab widgets
 
